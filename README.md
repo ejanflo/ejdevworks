@@ -1,4 +1,4 @@
-# ejdevworks </>
+# EJDevWorks </>
 
 My Website Portfolio. 
 Below are the pages of my website.
