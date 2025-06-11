@@ -1,6 +1,7 @@
 # EJ DevWorks | </>
 
-My Website Portfolio. 
+My Website Portfolio (version 1). 
+View my updated website portfolio here: https://ejdevworks.infinityfreeapp.com
 Below are the pages of my website.
 
 ## Dashboard
